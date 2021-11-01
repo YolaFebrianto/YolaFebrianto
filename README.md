@@ -6,6 +6,7 @@
 - Email: yolafebrianto1@gmail.com
 - Facebook: https://www.facebook.com/yola.febrianto.5
 - Instagram: https://www.instagram.com/yolafebrianto1/
+- LinkedIn: https://www.linkedin.com/in/yola-febrianto-237654224/
 
 <!---
 YolaFebrianto/YolaFebrianto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
